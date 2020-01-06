@@ -11,5 +11,5 @@ public interface ProductServiceFeign {
 
     @GetMapping("/product")
     Collection<ProductDto> findAll();
-    
+
 }
