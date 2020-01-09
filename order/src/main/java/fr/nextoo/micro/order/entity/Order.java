@@ -22,4 +22,5 @@ public class Order {
     @Column(name = "user_id", nullable = false)
     private Long userId;
 
+
 }
